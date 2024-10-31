@@ -49,8 +49,8 @@ nav a {
 
 article{
     background-color: white;
-    
 }
+
 article h1{
     font-size: 24px;
     color: #fece0f;
@@ -63,8 +63,7 @@ aside{
     width: 200px;
     text-align: justify;
     background-color: #398fd1;
-    color: white;
-    
+    color: white;   
 }
 
 footer{
